@@ -28,6 +28,9 @@ function App() {
         >
           Count is {count}
         </button>
+        <h1 className="text-3xl italic underline">
+          Hello world!
+        </h1>
       </section>
 
       <div className="ticks"></div>
